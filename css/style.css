@@ -1,6 +1,277 @@
-.container{
-    width:960px;
+.container {
+    width:920px;
     margin-left: auto;
     margin-right: auto;
-    min-height: 100px;
+    height: 800px;
+    
 }
+
+.header {
+    background-color: #ffb7aa;
+    height: 50px;
+    width:100%;
+}
+
+.wave {
+    height: 50px;
+    width: 70px;
+    margin-left: 50px;
+    
+}
+
+.banner {
+    background-color: #ffe2a9;
+    height: 150px;
+    width: 100%;
+}
+
+
+.headerimage{
+    height: 80px;
+    width: 400px;
+    float: right;
+    margin-right: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border: 10px solid #ffe2a9;
+}
+
+.h1 {
+   text-align: left;
+    font-size: 40px;
+    color: white;
+    float: left;
+    font-family: 'Indie Flower', cursive;
+    margin-left: 30px;
+    padding-top: 50px;
+
+}
+
+
+.h1sub {
+    font-family: 'Indie Flower', cursive;
+    color: #ffb7aa; 
+    padding-top: 90px;
+    font-size: 20px;
+}
+
+.body {
+    background-color: #fff3e1;
+    height: 100%;
+    width: 100%;
+}
+
+.nav {
+    background-color: #ffb7aa;
+    width: 200px;
+    height: 720px;
+    float: left;
+    margin-left: 40px;
+    margin-top: 40px;
+    
+}
+
+.lighthouse {
+    width: 150px;
+    margin-left: 21px;
+    margin-top: 20px;
+    border: 5px solid #ffe2a9;
+}
+
+
+.links {
+    
+  margin-top: 40px;
+    margin-bottom: 40px;
+    display: inline-block;
+}
+
+.links a {
+    color: white;
+    text-decoration: none;
+    padding-left: 50px;
+    padding-top: 50px;
+    display: inline-block;
+    
+}
+
+.links a:hover{
+    color: #ffe2a9;
+}
+
+.links a:active{
+    color: #ffb7aa;
+}
+
+.mataikona {
+    width: 150px;
+    margin-left: 21px;
+    margin-top: 120px;
+    border: 5px solid #ffe2a9;
+}
+
+.bodyblock {
+    background-color: #ffb7aa;
+    height: 720px;
+    width: 600px;
+    float: right;
+    margin-right: 40px;
+    margin-top: 40px;
+}
+
+.bodyhead {
+    color: white;
+    font-family: 'Indie Flower', cursive;
+    font-size: 30px;
+    margin-left: 40px;
+    margin-top: 40px;
+    text-decoration: underline;
+}
+
+.paragraph {
+    
+    color: white;
+    font-size: 20px;
+    margin-left: 40px;
+    margin-top: 30px;
+    font-family: 'Indie Flower', cursive;
+    font-style: italic;
+}
+
+
+
+.lighthouse2 {
+    margin-top: 50px;
+    margin-left: 40px;
+    border: 10px solid #ffe2a9;
+    height: 170px;
+    width: 250px;
+    float: left;
+}
+
+.mataikona2 {
+    margin-bottom: 50px;
+    margin-right: 40px;
+    margin-top: 20px;
+    border: 10px solid #ffe2a9;
+    height: 170px;
+    width: 250px;
+    float: right;
+}
+
+.bodyhead {
+    color: white;
+    font-family: 'Indie Flower', cursive;
+    font-size: 30px;
+    margin-left: 40px;
+    margin-top: 40px;
+    text-decoration: underline;
+}
+
+
+.wave2 {
+    height: 250px;
+    width: 280px;
+    margin-left: 200px;
+}
+
+.p5about {
+    
+     color: white;
+    font-family: 'Indie Flower', cursive;
+    font-size: 18px;
+    margin-left: 40px;
+    margin-top: 30px;
+    font-style: italic;
+}
+
+.paragraphmat {
+    color: white;
+    font-family: 'Indie Flower', cursive;
+    font-size: 17px;
+    margin-left: 40px;
+    margin-top: 30px;
+    font-style: italic;  
+    
+}
+
+.rightimagecp {
+    width: 230px;
+    height: 160px;
+    margin-top: 40px;
+    margin-left: 40px;
+    border: solid 10px #ffe2a9;
+    float: left;
+}
+
+.leftimagecp {
+    width: 230px;
+    height: 160px;
+    margin-top: 40px;
+    margin-right: 40px;
+    border: solid 10px #ffe2a9;
+    float: right; 
+}
+
+.rockface {
+       width: 230px;
+    height: 160px;
+    margin-top: 40px;
+    margin-left: 40px;
+    border: solid 10px #ffe2a9;
+    float: left; 
+}
+
+
+
+.beach1 {
+    width: 210px;
+    height: 140px;
+    margin-top: 20px;
+    margin-left: 40px;
+    border: solid 10px #ffe2a9;
+    float: left;   
+}
+
+.beach2 {
+      width: 210px;
+    height: 140px;
+    margin-top: 20px;
+    margin-right: 40px;
+    border: solid 10px #ffe2a9;
+    float: right; 
+    
+}
+
+.headerimage1 {
+      height: 80px;
+    width: 400px;
+    float: left;
+    margin-left: 90px;
+    margin-right: 90px;
+    margin-top: 20px;
+    border: 10px solid #ffe2a9;
+    
+}
+
+.beach3 {
+    width: 210px;
+    height: 140px;
+    margin-top: 20px;
+    margin-left: 185px;
+    margin-right: 185px;
+    border: solid 10px #ffe2a9;
+    float: left;   
+}
+
+
+
+
+
+
+
+
+
+
+
+
